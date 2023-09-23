@@ -11,42 +11,42 @@ export default {
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
+					title: 'BenQ',
 					img: require('@/assets/images/brands/Benq.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
+					title: 'KotakGame',
 					img: require('@/assets/images/brands/kotakgame.png'),
 				},
 				{
 					id: 3,
-					title: 'Adidas',
+					title: 'NJT',
 					img: require('@/assets/images/brands/LogoNJT.png'),
 				},
 				{
 					id: 4,
-					title: 'FILA',
+					title: 'Cooler Master',
 					img: require('@/assets/images/brands/CM Logo Tagline Right Black RGB.png'),
 				},
 				{
 					id: 5,
-					title: 'NB',
+					title: '"Klevv"',
 					img: require('@/assets/images/brands/klevv.png'),
 				},
 				{
 					id: 6,
-					title: 'SAMSUNG',
+					title: 'MyClubGaming',
 					img: require('@/assets/images/brands/MyClubGaming.png'),
 				},
 				{
 					id: 7,
-					title: 'CANON',
+					title: 'Palit',
 					img: require('@/assets/images/brands/logo_palit.png'),
 				},
 				{
 					id: 7,
-					title: 'PUMA',
+					title: 'Asus',
 					img: require('@/assets/images/brands/asus.png'),
 				},
 			],
