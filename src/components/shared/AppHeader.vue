@@ -88,13 +88,13 @@ export default {
 						><img
 							v-if="theme === 'light'"
 							src="@/assets/images/favicon.png"
-							class="w-[70px]"
+							class="w-[100px]"
 							alt="Dark Logo"
 						/>
 						<img
 							v-else
 							src="@/assets/images/favicon.png"
-							class="w-[70px]"
+							class="w-[100px]"
 							alt="Light Logo"
 						/>
 					</router-link>
@@ -147,7 +147,7 @@ export default {
 				<div class="hidden md:block">
 					<Button
 						title="Hire Me"
-						class="text-md font-general-medium bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
+						class="text-md font-general-medium bg-[#c7605b] hover:bg-[#c7605b] text-white shadow-sm rounded-md px-5 py-2.5 duration-300"
 						@click="showModal()"
 						aria-label="Hire Me Button"
 					/>
@@ -174,8 +174,8 @@ export default {
 
 <style scoped>
 #nav a.router-link-exact-active {
-	@apply text-indigo-700;
-	@apply dark:text-indigo-400;
+	@apply text-[#c7605b];
+	@apply dark:text-[#c7605b];
 	@apply font-medium;
 }
 </style>

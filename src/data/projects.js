@@ -38,6 +38,7 @@ const projects = [
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-1.jpg'),
 	},
+	
 ];
 
 export default projects;
