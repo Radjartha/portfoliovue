@@ -34,10 +34,11 @@ const projects = [
 	},
 	{
 		id: 6,
-		title: 'Apple Design System',
+		title: 'Apple Design Systems',
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-1.jpg'),
 	},
+	
 	
 ];
 
